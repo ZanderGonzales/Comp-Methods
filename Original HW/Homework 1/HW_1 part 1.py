@@ -1,5 +1,5 @@
 import numpy as np
-import matplot.pyplot as plt
+import matplotlib.pyplot as plt
 
 
 #Goal, plot y=sqrt(x) for x = 0, 0.01, 0.02, … , 5
